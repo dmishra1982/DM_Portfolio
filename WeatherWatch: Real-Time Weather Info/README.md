@@ -1,7 +1,9 @@
 # WeatherWatch: Real-Time Weather Info
 
 ## Project Overview
+<p align="justify">
 This Python project leverages the OpenWeatherMap API to fetch and display current weather information based on user input. It supports weather lookup via Zip Code or City Name and State Code combination. Additionally, users can choose temperature units (Fahrenheit, Celsius, or Kelvin) for displaying weather details.
+</p>
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
