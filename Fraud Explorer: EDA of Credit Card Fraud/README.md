@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-<p align="center">
+<p align="justify">
   
 This project utilizes Exploratory Data Analysis (EDA) to uncover key patterns and trends in credit card fraud data. By exploring the distribution of fraudulent transactions, identifying correlations between features, and analyzing geographical and behavioral patterns, we aim to improve fraud detection strategies and enhance understanding of fraud indicators.
   
