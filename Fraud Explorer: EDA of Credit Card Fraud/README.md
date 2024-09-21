@@ -1,4 +1,4 @@
-# Fraud Lens: Exploratory Data Analysis of Credit Card Fraud
+# Fraud Explorer: EDA of Credit Card Fraud
 
 ## Project Overview
 
