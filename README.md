@@ -54,7 +54,7 @@ This Python project utilizes the OpenWeatherMap API to provide current weather i
 ### [Safeguarding Credit Transactions and Mitigation Risks](#)
 This project aims to detect and prevent fraudulent credit card transactions using Logistic Regression and Random Forest Classifier models, ensuring a reliable solution to combat fraud.
 
-### [Fraud Lens: Exploratory Data Analysis of Credit Card Fraud](#)
+### [Fraud Explorer: EDA of Credit Card Fraud](#)
 Exploratory Data Analysis (EDA) uncovers key patterns and trends in credit card fraud data, enhancing the understanding of fraud indicators and supporting the development of detection strategies.
 
 ---
