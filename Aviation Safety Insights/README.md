@@ -51,9 +51,7 @@ Future improvements may include:
 - Developing interactive features in visualizations to engage users more effectively.
 
 ## Acknowledgement
-This project was developed as a learning exercise by **Debabrata Mishra**. If you use this work, please provide appropriate citations to the dataset, this repository, and other resources referenced during the learning process.
 
-**Sources**:
 - Accidents and Fatalities Per Year
 - Airline Safety Data
 - Fatality Analysis Reporting System
