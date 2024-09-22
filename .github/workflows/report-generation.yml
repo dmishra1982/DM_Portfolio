@@ -12,12 +12,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3  # Updated to v3 to use the latest Node.js version
+        uses: actions/checkout@v3  # Latest version compatible with Node.js 20
 
       - name: Set up Python
-        uses: actions/setup-python@v4  # Updated to v4 to support the latest versions
+        uses: actions/setup-python@v4  # Latest version compatible with Node.js 20
         with:
-          python-version: '3.x'  # Specify the Python version you need
+          python-version: '3.x'  # Specify the desired Python version
 
       - name: Install Dependencies
         run: |
@@ -29,7 +29,7 @@ jobs:
           python generate_report.py
 
       - name: Upload Report as an Artifact
-        uses: actions/upload-artifact@v3  # Use the latest v3 version
+        uses: actions/upload-artifact@v3  # Latest version for uploading artifacts
         with:
           name: generated-report
-          path: ./report.txt  # Ensure this is the correct path to the report file
+          path: ./report.txt  # Ensure this is the correct path to your report file
