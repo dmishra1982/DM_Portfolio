@@ -30,7 +30,7 @@ Generate an SSH key for secure access to the cloud instance:
   -  Windows: Use PuTTYgen to generate keys.
 
 ### Add SSH Key to Google Cloud
-  -  Upload your public key to Google Cloud Console -> Compute Engine -> Metadata.
+  -  Upload your public key to Google Cloud Console -> Compute Engine -> Metadata
 
 ### Set up Ubuntu Instance
   -  Create Ubuntu 22.04 LTS instance with specified configurations.
