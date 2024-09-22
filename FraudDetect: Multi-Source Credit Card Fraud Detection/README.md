@@ -6,20 +6,20 @@ The **MultiSource FraudBuster** project is designed to detect fraudulent credit 
 </p>
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Source Data](#source-data)
-- [Milestones](#milestones)
-  - [Milestone 1: Data Preparation and Integration](#milestone-1-data-preparation-and-integration)
-  - [Milestone 2: Data Transformation and Cleaning (Flat File Source)](#milestone-2-data-transformation-and-cleaning-flat-file-source)
-  - [Milestone 3: Data Transformation and Cleaning (Website Source)](#milestone-3-data-transformation-and-cleaning-website-source)
-  - [Milestone 4: Data Transformation and Cleaning (API Source)](#milestone-4-data-transformation-and-cleaning-api-source)
-  - [Milestone 5: Merging Data and Visualizing Trends](#milestone-5-merging-data-and-visualizing-trends)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+1. [Project Overview](#project-overview)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Data](#data)
+5. [Source Data](#source-data)
+6. [Milestones](#milestones)
+      - [Milestone 1: Data Preparation and Integration](#milestone-1-data-preparation-and-integration)
+      - [Milestone 2: Data Transformation and Cleaning (Flat File Source)](#milestone-2-data-transformation-and-cleaning-flat-file-source)
+      - [Milestone 3: Data Transformation and Cleaning (Website Source)](#milestone-3-data-transformation-and-cleaning-website-source)
+      - [Milestone 4: Data Transformation and Cleaning (API Source)](#milestone-4-data-transformation-and-cleaning-api-source)
+      - [Milestone 5: Merging Data and Visualizing Trends](#milestone-5-merging-data-and-visualizing-trends)
+7. [Future Work](#future-work)
+8. [Contributing](#contributing)
+9. [Acknowledgments](#acknowledgments)
 
 ## Installation
 1. Ensure **Python 3.8** or above is installed. You can download it from [python.org](https://www.python.org/).
