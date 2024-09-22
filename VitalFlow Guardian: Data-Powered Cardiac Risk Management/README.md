@@ -69,7 +69,7 @@ Evaluation metrics include:
 Cross-validation and confusion matrices are used to assess model performance.
 
 ## Results
-The **Random Forest Classifier** achieved an accuracy of **99%**, with high precision and recall scores, demonstrating effective heart failure prediction capabilities.
+The **Random Forest Classifier** achieved an accuracy of **98%**, with high precision and recall scores, demonstrating effective heart failure prediction capabilities.
 
 ## Future Work
 Potential future enhancements include:
