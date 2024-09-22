@@ -48,7 +48,7 @@ Using Natural Language Processing (NLP), this project performs sentiment analysi
 A big data project focused on analyzing hotel booking data to uncover trends in customer preferences, seasonal booking patterns, and pricing strategies. The project aims to optimize operations in the hospitality industry by providing actionable insights that improve customer experience and increase booking efficiency.
 </p>
 
-### [VitalFlow Guardian: Data-Powered Cardiac Risk Management](https://github.com/dmishra1982/DM_Portfolio/tree/main/HeartHealth%3A%20Predicting%20Heart%20Failure%20Risks)
+### [VitalFlow Guardian: Data-Powered Cardiac Risk Management](https://github.com/dmishra1982/DM_Portfolio/tree/main/VitalFlow%20Guardian:%20Data-Powered%20Cardiac%20Risk%20Management)
 <p align="justify">
 This project focuses on using electronic medical records to predict the risk of heart failure. By analyzing multiple heart-related datasets, it uncovers patterns that indicate the likelihood of heart failure, allowing healthcare providers to intervene early and enhance cardiovascular disease prevention.
 </p>
