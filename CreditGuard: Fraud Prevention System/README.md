@@ -72,4 +72,5 @@ Potential future enhancements for the project include:
 - Kaggle for providing the Credit Card Transactions Fraud Detection Dataset.
 - The [R](https://www.r-project.org/) community for the powerful libraries used in data analysis and machine learning.
 - Analytical Vidhya for insightful resources and tutorials on machine learning techniques.
+- [Towards Data Science](https://towardsdatascience.com/) 
 
