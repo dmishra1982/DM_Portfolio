@@ -1,4 +1,4 @@
-# VitalFlow Guardian: Data-Powered Cardiac Risk Management
+# VitalFlow Guardian - Data-Powered Cardiac Risk Management
 
 ## Project Overview
 <p align="justify">
