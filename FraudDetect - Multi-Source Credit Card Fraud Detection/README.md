@@ -1,4 +1,4 @@
-# FraudDetect: Multi-Source Credit Card Fraud Detection
+# FraudDetect - Multi-Source Credit Card Fraud Detection
 
 ## Project Overview
 <p align="justify">
