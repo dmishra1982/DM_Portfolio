@@ -1,4 +1,4 @@
-# Fraud Explorer: EDA of Credit Card Fraud
+# Fraud Explorer - EDA of Credit Card Fraud
 
 ## Project Overview
 
