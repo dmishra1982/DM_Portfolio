@@ -53,7 +53,7 @@ A big data project focused on analyzing hotel booking data to uncover trends in 
 This project focuses on using electronic medical records to predict the risk of heart failure. By analyzing multiple heart-related datasets, it uncovers patterns that indicate the likelihood of heart failure, allowing healthcare providers to intervene early and enhance cardiovascular disease prevention.
 </p>
 
-### [FraudDetect - Multi-Source Credit Card Fraud Detection](https://github.com/dmishra1982/DM_Portfolio/tree/main/FraudDetect%3A%20Multi-Source%20Credit%20Card%20Fraud%20Detection)
+### [FraudDetect - Multi-Source Credit Card Fraud Detection](https://github.com/dmishra1982/DM_Portfolio/tree/main/FraudDetect%20-%20Multi-Source%20Credit%20Card%20Fraud%20Detection)
 <p align="justify">
 This project integrates data from multiple sources to build a robust machine learning model for detecting credit card fraud. By analyzing transactional data and applying advanced algorithms, the system identifies fraudulent activity with high accuracy, helping financial institutions mitigate risks and reduce fraud.
 </p>
