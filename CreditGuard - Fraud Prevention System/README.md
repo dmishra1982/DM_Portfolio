@@ -1,4 +1,4 @@
-# CreditGuard:  Credit Card Fraud Detection & Prevention
+# CreditGuard -  Credit Card Fraud Detection & Prevention
 
 ## Project Overview
 
