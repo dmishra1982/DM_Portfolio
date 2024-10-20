@@ -1,4 +1,4 @@
-# WeatherWatch- Real-Time Weather Info
+# WeatherWatch - Real-Time Weather Info
 
 ## Project Overview
 <p align="justify">
