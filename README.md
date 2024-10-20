@@ -68,7 +68,7 @@ An exploratory data analysis project that examines the safety records of global 
 This Python project utilizes the OpenWeatherMap API to provide up-to-date weather information based on user input. It allows users to search for weather details by city or ZIP code and choose their preferred temperature unit (Celsius, Fahrenheit, or Kelvin). The app is designed for convenience and flexibility in displaying real-time weather.
 </p>
 
-### [CreditGuard - Fraud Prevention System](https://github.com/dmishra1982/DM_Portfolio/tree/main/CreditGuard%3A%20Fraud%20Prevention%20System)
+### [CreditGuard - Fraud Prevention System](https://github.com/dmishra1982/DM_Portfolio/tree/main/CreditGuard%20-%20Fraud%20Prevention%20System)
 <p align="justify">
 A machine learning-driven solution to detect fraudulent credit card transactions by analyzing purchase behavior. Logistic Regression and Random Forest algorithms are employed to accurately identify inconsistencies, helping banks and merchants prevent fraudulent transactions while minimizing false positives.
 </p>
