@@ -38,7 +38,7 @@ This project uses machine learning to predict customer churn in the telecom indu
 The project develops a predictive model to assess water potability using historical water quality data. Various parameters such as pH, hardness, and contamination levels are analyzed to predict whether water is safe for consumption. This project supports public health initiatives by providing actionable insights to ensure safe drinking water.
 </p>
 
-### [TweetSentiment: Social Media Insights](https://github.com/dmishra1982/DM_Portfolio/tree/main/TweetSentiment%3A%20Social%20Media%20Insights)
+### [TweetSentiment Social Media Insights](https://github.com/dmishra1982/DM_Portfolio/tree/main/TweetSentiment%3A%20Social%20Media%20Insights)
 <p align="justify">
 Using Natural Language Processing (NLP), this project performs sentiment analysis on tweets to determine whether they express positive, negative, or neutral sentiments. By leveraging machine learning, it helps brands and organizations understand public opinion, monitor trends, and gauge customer feedback on social media platforms.
 </p>
@@ -48,12 +48,12 @@ Using Natural Language Processing (NLP), this project performs sentiment analysi
 A big data project focused on analyzing hotel booking data to uncover trends in customer preferences, seasonal booking patterns, and pricing strategies. The project aims to optimize operations in the hospitality industry by providing actionable insights that improve customer experience and increase booking efficiency.
 </p>
 
-### [VitalFlow Guardian: Data-Powered Cardiac Risk Management](https://github.com/dmishra1982/DM_Portfolio/tree/main/VitalFlow%20Guardian:%20Data-Powered%20Cardiac%20Risk%20Management)
+### [VitalFlow Guardian Data-Powered Cardiac Risk Management](https://github.com/dmishra1982/DM_Portfolio/tree/main/VitalFlow%20Guardian:%20Data-Powered%20Cardiac%20Risk%20Management)
 <p align="justify">
 This project focuses on using electronic medical records to predict the risk of heart failure. By analyzing multiple heart-related datasets, it uncovers patterns that indicate the likelihood of heart failure, allowing healthcare providers to intervene early and enhance cardiovascular disease prevention.
 </p>
 
-### [FraudDetect: Multi-Source Credit Card Fraud Detection](https://github.com/dmishra1982/DM_Portfolio/tree/main/FraudDetect%3A%20Multi-Source%20Credit%20Card%20Fraud%20Detection)
+### [FraudDetect - Multi-Source Credit Card Fraud Detection](https://github.com/dmishra1982/DM_Portfolio/tree/main/FraudDetect%3A%20Multi-Source%20Credit%20Card%20Fraud%20Detection)
 <p align="justify">
 This project integrates data from multiple sources to build a robust machine learning model for detecting credit card fraud. By analyzing transactional data and applying advanced algorithms, the system identifies fraudulent activity with high accuracy, helping financial institutions mitigate risks and reduce fraud.
 </p>
@@ -63,17 +63,17 @@ This project integrates data from multiple sources to build a robust machine lea
 An exploratory data analysis project that examines the safety records of global airlines. Through data visualizations and key statistics, the project provides insights into the safety of air travel, dispelling myths and giving the public a clearer understanding of aviation safety standards and trends.
 </p>
 
-### [WeatherWatch: Real-Time Weather Info](https://github.com/dmishra1982/DM_Portfolio/tree/main/WeatherWatch%3A%20Real-Time%20Weather%20Info)
+### [WeatherWatch - Real-Time Weather Info](https://github.com/dmishra1982/DM_Portfolio/tree/main/WeatherWatch%3A%20Real-Time%20Weather%20Info)
 <p align="justify">
 This Python project utilizes the OpenWeatherMap API to provide up-to-date weather information based on user input. It allows users to search for weather details by city or ZIP code and choose their preferred temperature unit (Celsius, Fahrenheit, or Kelvin). The app is designed for convenience and flexibility in displaying real-time weather.
 </p>
 
-### [CreditGuard: Fraud Prevention System](https://github.com/dmishra1982/DM_Portfolio/tree/main/CreditGuard%3A%20Fraud%20Prevention%20System)
+### [CreditGuard - Fraud Prevention System](https://github.com/dmishra1982/DM_Portfolio/tree/main/CreditGuard%3A%20Fraud%20Prevention%20System)
 <p align="justify">
 A machine learning-driven solution to detect fraudulent credit card transactions by analyzing purchase behavior. Logistic Regression and Random Forest algorithms are employed to accurately identify inconsistencies, helping banks and merchants prevent fraudulent transactions while minimizing false positives.
 </p>
 
-### [Fraud Explorer: EDA of Credit Card Fraud](https://github.com/dmishra1982/DM_Portfolio/tree/main/Fraud%20Explorer%3A%20EDA%20of%20Credit%20Card%20Fraud)
+### [Fraud Explorer - EDA of Credit Card Fraud](https://github.com/dmishra1982/DM_Portfolio/tree/main/Fraud%20Explorer%3A%20EDA%20of%20Credit%20Card%20Fraud)
 <p align="justify">
 This exploratory data analysis project examines the distribution of credit card fraud transactions, identifying correlations and key trends. By understanding geographic, temporal, and behavioral patterns in fraud, the project supports the development of more effective fraud detection systems.
 </p>
